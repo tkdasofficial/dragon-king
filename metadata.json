@@ -1,0 +1,6 @@
+{
+  "name": "Dragon King",
+  "description": "A 2D Nintendo-style pixel-art platformer featuring the fire-breathing Dragon King in a forced-landscape test level.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

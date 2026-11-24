@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dragon King</string>
+    <string name="action_pause">Pause Game</string>
+    <string name="pause_title">PAUSED</string>
+    <string name="action_resume">RESUME</string>
+    <string name="action_restart">RESTART</string>
+    <string name="sound_on">SOUND: ON</string>
+    <string name="sound_off">SOUND: OFF</string>
+    <string name="banner_victory">SHRINE REACHED!</string>
+    <string name="banner_defeat">DRAGON FALLEN</string>
+    <string name="action_retry">PLAY AGAIN</string>
+</resources>
